@@ -1,5 +1,9 @@
 MBS (Mobile Broadcaster Software) Studio is an OBS Studio like software for Android platform.
 
+# Download
+### Google Play Store
+https://play.google.com/store/apps/details?id=cn.lx.app_mbs_studio
+
 # Features
 
 ## Sources
