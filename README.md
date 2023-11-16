@@ -57,8 +57,3 @@ https://play.google.com/store/apps/details?id=cn.lx.app_mbs_studio
 - SoC: Qualcomm S845
 - RAM: 4GB
 - ROM: 64G
-
-## Recommended devices
-- Samsung Galaxy Tab S7 / S8
-- Huawei MatePad Pro
-- Xiaomi Pad 5 Pro
