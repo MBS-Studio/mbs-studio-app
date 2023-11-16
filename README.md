@@ -11,6 +11,7 @@ https://play.google.com/store/apps/details?id=cn.lx.app_mbs_studio
 - Local Camera
 - File Source
 - RTSP Source
+- USB Device
 
 ## Scene
 - Up to 9 pre-configed scene
